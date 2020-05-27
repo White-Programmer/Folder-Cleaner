@@ -1,7 +1,6 @@
 """
-Helper-: Internet/Code With Harry
-Author-: @@
-Python Project
+Author-: White-Programmer
+Clean Your Directory Easily
 """
 import os
 from shutil import move
